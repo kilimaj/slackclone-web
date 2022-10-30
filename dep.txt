@@ -1,0 +1,13 @@
+emoji-mart
+firebase
+md5
+moment 
+react-avatar-editor 
+react-color 
+react-redux 
+react-router-dom 
+redux 
+redux-devtools-extension 
+semantic-ui-css 
+semantic-ui-react
+uuid
